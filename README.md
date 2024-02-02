@@ -43,7 +43,7 @@ Testing the integration of the modules and verifying their functionalities.
 
 Testing the system as a whole and verifying the modules in real scenarios.
 * This is done for all modules and for both the Manager and Customer roles.
-* In addition to that, verification of Webservice Software Interfaces for [Mini Statement, Balance Enquiry] modules is done as part of System Verification.
+* In addition to that, verification of Webservice Software Interfaces for [Mini Statement, Balance Enquiry] modules is done as part of System Verification. {delayed for now}
 * System testing is only performed in versions v3 & v4.
 
 ----------------------------------------------------------------------------
